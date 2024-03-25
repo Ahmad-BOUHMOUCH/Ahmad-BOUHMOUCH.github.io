@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/d6_bis/static/css/main.80593411.css",
-    "main.js": "/d6_bis/static/js/main.354b6c16.js",
+    "main.js": "/d6_bis/static/js/main.62f57786.js",
     "static/js/592.6d7de513.chunk.js": "/d6_bis/static/js/592.6d7de513.chunk.js",
     "static/media/Home_Image.png": "/d6_bis/static/media/Home_Image.ee8dd4fc450a7358373e.png",
     "static/media/Ribat_Al_Fath_High_School_Main_View.jpg": "/d6_bis/static/media/Ribat_Al_Fath_High_School_Main_View.9e2d532a672c78131883.jpg",
@@ -39,11 +39,11 @@
     "static/media/Down_Arrow.png": "/d6_bis/static/media/Down_Arrow.aa60bfd54119c0991b58.png",
     "index.html": "/d6_bis/index.html",
     "main.80593411.css.map": "/d6_bis/static/css/main.80593411.css.map",
-    "main.354b6c16.js.map": "/d6_bis/static/js/main.354b6c16.js.map",
+    "main.62f57786.js.map": "/d6_bis/static/js/main.62f57786.js.map",
     "592.6d7de513.chunk.js.map": "/d6_bis/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80593411.css",
-    "static/js/main.354b6c16.js"
+    "static/js/main.62f57786.js"
   ]
 }
