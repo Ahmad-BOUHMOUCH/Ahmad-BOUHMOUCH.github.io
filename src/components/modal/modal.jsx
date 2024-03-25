@@ -56,9 +56,9 @@ const Modal = ({ isOpen, onClose, language }) => {
         <div className="modal-overlay">
             <div className="modal" ref={modalRef}>
                 <div className="modal-content">
-                    <a href="https://drive.google.com/file/d/1z-BdJsUtDRVDGok9sg7PNFzA40e4F3ZU/view?usp=sharing" target='_blank' rel="noreferrer">{modalContent[language].englishCV}</a>
-                    <a href="https://drive.google.com/file/d/1hNUMcvl16QGbCbz3_ojg45uve-tKNsiS/view?usp=sharing" target='_blank' rel="noreferrer">{modalContent[language].frenchCV}</a>
-                    <a href="https://drive.google.com/file/d/1HkGE26zqdlC2dtSubXK9d8LBSPSON4Uk/view?usp=sharing" target='_blank' rel="noreferrer">{modalContent[language].spanishCV}</a>
+                    <a href="https://drive.google.com/file/d/1Ve0I-rB3AzoYlU4vjbAgnXNtLzZh0imd/view?usp=drive_link" target='_blank' rel="noreferrer">{modalContent[language].englishCV}</a>
+                    <a href="https://drive.google.com/file/d/1B3ZFEVekiaInfmX60u6uD6c82i3sRV9f/view?usp=drive_link" target='_blank' rel="noreferrer">{modalContent[language].frenchCV}</a>
+                    <a href="https://drive.google.com/file/d/1eYjS_UBVi_cCT3eMv3wJQFp3EOQtdJs5/view?usp=drive_link" target='_blank' rel="noreferrer">{modalContent[language].spanishCV}</a>
                     <button className="close-button" onClick={onClose}>{modalContent[language].close}</button>
                 </div>
             </div>

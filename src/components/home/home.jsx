@@ -16,7 +16,7 @@ const Home = React.forwardRef((props, ref) => {
       message: "Bienvenido al mundo creativo de <strong>Ahmad BOUHMOUCH</strong>, arquitecto aspirante. Explore a través de mis proyectos innovadores destacados en este portafolio.",
     },
     FR: {
-      message: "Bienvenue dans le monde créatif d'<strong>Ahmad BOUHMOUCH</strong>, architecte en devenir. Parcourez à travers ce Portfolio les projets innovants sur lesquels j’ai travaillé.",
+      message: "Bienvenue dans le monde créatif d'<strong>Ahmad BOUHMOUCH</strong>, futur architecte. Parcourez à travers ce Portfolio les projets innovants sur lesquels j’ai travaillé.",
     },
   };
 

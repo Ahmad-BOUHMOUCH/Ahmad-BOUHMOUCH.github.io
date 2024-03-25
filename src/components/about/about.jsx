@@ -52,8 +52,8 @@ const About = React.forwardRef((props, ref) => {
     FR: {
       heading: "QUI SUIS-JE?",
       p1: (<p>Je suis <span className='special-span'>Ahmad BOUHMOUCH</span>, <span className='special-span'>étudiant en architecture</span> en quatrième année à l'Université Internationale de Rabat au Maroc. Ma passion pour le design et l'art, en particulier l'aspect humain de l'architecture, est complétée par mes rôles de <span className='special-span'>créateur de contenu</span> sur les réseaux sociaux et de <span className='special-span'>coach sportif</span>.</p>),
-      p2: (<p>Au-delà de mes études académiques, je m'immerge dans le domaine du mannequinat et du fitness. Ce <span className='special-span'>panel polyvalent</span>, associé à ma capacité de parler <span className='special-span'>5 langues</span>, reflète mon adaptabilité et un vif intérêt pour des domaines divers.</p>),
-      p3: (<p><span className='special-span'>Aspirant à exercer la profession d'architecte à l'échelle mondiale</span>, je suis impatient d'acquérir de précieuses expériences professionnelles. Pour en savoir plus sur mon parcours technique, veuillez consulter mon <span className='special-span'>CV</span> et mon <span className='special-span'>portfolio</span>.</p>),
+      p2: (<p>Au-delà de mon parcours académique, je m'immerge dans le domaine du mannequinat et du fitness. Ce <span className='special-span'>panel polyvalent</span>, associé à ma capacité de parler <span className='special-span'>5 langues</span>, reflète mon adaptabilité et un vif intérêt pour des domaines divers.</p>),
+      p3: (<p><span className='special-span'>Aspirant à exercer la profession d'architecte à l'échelle mondiale</span>, je suis impatient d'acquérir de précieuses expériences professionnelles. Pour en savoir plus sur mes compétences techniques, veuillez consulter mon <span className='special-span'>CV</span> et mon <span className='special-span'>portfolio</span>.</p>),
       button: "VOIR MON CV",
       subHeading1: "ÉTUDIANT EN",
       subHeading2: "ARCHITECTURE"
